@@ -1,1 +1,2 @@
-
+- Farmers Market listings also available via data.hawaii.gov: https://data.hawaii.gov/Economic-Development/Hawaii-Farmer-s-Markets/nqfm-3etr
+  - API: https://dev.socrata.com/foundry/data.hawaii.gov/b2y9-ab7v
