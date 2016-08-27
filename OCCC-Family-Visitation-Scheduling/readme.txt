@@ -1,1 +1,3 @@
-test
+- Department of Public Safety prison population data (might be useful for locating facilities)
+  - Dataset: https://data.hawaii.gov/Public-Safety/Department-of-Public-Safety-Weekly-Population-Repo/fu6a-2jaq
+  - API: https://dev.socrata.com/foundry/data.hawaii.gov/cc6w-qpxz
