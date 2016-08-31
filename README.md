@@ -18,6 +18,6 @@ Any questions? E-mail hacc@hawaii.gov
 
 Feel free to reach out if you have any questions!
 
-### DevLeague
+### DevLeague 
 
 - [HACC starter kits](https://github.com/devleague/?utf8=%E2%9C%93&query=hacc)
